@@ -10,9 +10,9 @@ echo $mhs1->nama;
 // require_once("latihan-3.php");
 
 // $mhs1=new mahasiswa();
-// $mhs1->setNama("Nama:Jamilatur R<br>");
+// $mhs1->setNama("Nama:Emerald R<br>");
 // echo $mhs1->getNama();
 
-// $mhs1->setNim("NIM : G.211.21.0088");
+// $mhs1->setNim("NIM : G.211.21.0021");
 // echo $mhs1->getNim();
 ?>
